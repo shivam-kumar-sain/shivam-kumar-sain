@@ -1,70 +1,76 @@
-# Hi 👋 I'm Shivam Kumar
+<h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
+<h3 align="center">🚀 Python Backend Developer | Full Stack Engineer | AI/ML Enthusiast</h3>
 
-🚀 Python Backend Developer | Full Stack Engineer | AI/ML Enthusiast  
-📍 Noida, India  
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivam-kumar-sain">
+    <img src="https://img.shields.io/badge/LinkedIn-Shivam%20Kumar-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=brightgreen&style=for-the-badge">
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a results-driven Backend Developer with 4+ years of experience building scalable systems, automation workflows, and enterprise CRM platforms.
-
-I specialize in:
-- Scalable Backend Architectures
-- REST API Development
-- CRM & Business Automation
-- Cloud Deployment (AWS)
-- AI/ML Applications
+- 💼 4+ Years Experience in Backend Development
+- 🏗️ Building Scalable ERP & CRM Systems
+- ⚡ Automation & Performance Optimization Specialist
+- ☁️ AWS & Cloud Deployment Experience
+- 🤖 AI/ML System Development
 
 ---
 
 ## 🛠 Tech Stack
 
-### Backend
-Python | Django | FastAPI | Flask | Celery  
+### 💻 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask" />
+</p>
 
-### Frontend
-Next.js | React.js | JavaScript | Tailwind CSS  
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
+</p>
 
-### Databases
-PostgreSQL | MySQL | MongoDB | Redis | Elasticsearch  
+### 🗄 Databases
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
 
-### DevOps
-Docker | AWS | CI/CD | Linux | Git  
-
-### AI/ML
-Scikit-learn | TensorFlow | PyTorch | NLP | Computer Vision  
+### ⚙ DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🔹 Enterprise CRM System
-Built complete CRM from scratch with RBAC authentication and automation modules.
+Built scalable CRM with RBAC authentication & automation workflows.
 
 ### 🔹 AI Resume Parser & Job Recommendation System
-ML-based resume parsing and candidate-job matching engine.
+ML-based resume parsing & intelligent candidate matching.
 
-### 🔹 HR & Payroll Data Automation System
-Reduced manual processing by 60% using backend automation pipelines.
+### 🔹 HR & Payroll Automation
+Reduced manual effort by 60% using backend automation pipelines.
 
 ---
 
-## 📈 What I Focus On
+## 📊 GitHub Stats
 
-- Clean Architecture
-- High Performance APIs
-- Automation & Efficiency
-- Scalable Microservices
-- AI Integration in Real Systems
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn: www.linkedin.com/in/shivam-kumar-sain  
-Email: shivamkumar6399029@gmail.com  
+📧 shivamkumar6399029@gmail.com  
+🔗 www.linkedin.com/in/shivam-kumar-sain  
 
 ---
 
-⭐ Always building. Always learning.
+⭐ *"Build scalable systems. Write clean code. Automate everything."*
