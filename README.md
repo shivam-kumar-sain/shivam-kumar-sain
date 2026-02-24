@@ -48,7 +48,7 @@
   Messaging & Distributed Architecture
 </h2>
 <h2>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/28/external-microservices-web-development-flaticons-lineal-color-flat-icons.png"/>
+  <img src="https://img.shields.io/badge/Messaging%20&%20Distributed%20Architecture-Event%20Driven-blue?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   Messaging & Distributed Architecture
 </h2>
 <h2>
