@@ -43,10 +43,7 @@
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
 </p>
 
-<h2>
-  <img src="https://img.shields.io/badge/Messaging%20&%20Distributed%20Architecture-Event%20Driven-blue?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-</h2>
-
+## 🔄 Messaging & Distributed Architecture
 <p>
   <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,redis" />
   <img src="https://img.shields.io/badge/Webhooks-Event%20Driven-blue?style=flat-square"/>
