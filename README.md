@@ -43,11 +43,14 @@
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
 </p>
 
-## 🔄 Messaging & Distributed Architecture
+<h2>
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" height="28"/>
+  Messaging & Distributed Architecture
+</h2>
+
 <p>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Webhooks-1E90FF?style=for-the-badge&logo=webhook&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,redis" />
+  <img src="https://img.shields.io/badge/Webhooks-Event%20Driven-blue?style=flat-square"/>
 </p>
 
 ## ⚙ DevOps & Cloud
