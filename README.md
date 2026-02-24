@@ -1,63 +1,70 @@
-# Hi 👋, I'm Shivam Kumar
+# Hi 👋 I'm Shivam Kumar
 
-🚀 Backend Developer | Python | FastAPI | PostgreSQL | ERP Systems  
-💡 Passionate about scalable backend architecture & clean code  
-📍 Based in India  
+🚀 Python Backend Developer | Full Stack Engineer | AI/ML Enthusiast  
+📍 Noida, India  
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🔭 Currently working on ERP Backend Systems
-- 🌱 Learning Advanced System Design & Microservices
-- 🛠 Strong focus on clean architecture & production-ready code
-- ⚡ Love optimizing database queries & performance tuning
-- 🎯 Goal: Build scalable backend systems used by thousands
+I am a results-driven Backend Developer with 4+ years of experience building scalable systems, automation workflows, and enterprise CRM platforms.
+
+I specialize in:
+- Scalable Backend Architectures
+- REST API Development
+- CRM & Business Automation
+- Cloud Deployment (AWS)
+- AI/ML Applications
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Backend
-- Python
-- FastAPI
-- SQLAlchemy
-- Django (Basic)
+### Backend
+Python | Django | FastAPI | Flask | Celery  
 
-### 🗄 Database
-- PostgreSQL
-- MySQL
+### Frontend
+Next.js | React.js | JavaScript | Tailwind CSS  
 
-### ⚙ Tools
-- Git & GitHub
-- Docker (Basic)
-- Linux Server
-- Cron Jobs
-- REST APIs
+### Databases
+PostgreSQL | MySQL | MongoDB | Redis | Elasticsearch  
+
+### DevOps
+Docker | AWS | CI/CD | Linux | Git  
+
+### AI/ML
+Scikit-learn | TensorFlow | PyTorch | NLP | Computer Vision  
 
 ---
 
-## 📊 Current Projects
+## 📌 Featured Projects
 
-- 📚 ERP Backend System
-- 📈 Dashboard Reporting Automation
-- 🔍 Search & Recommendation API
-- ⏳ Reading Session Analytics System
+### 🔹 Enterprise CRM System
+Built complete CRM from scratch with RBAC authentication and automation modules.
+
+### 🔹 AI Resume Parser & Job Recommendation System
+ML-based resume parsing and candidate-job matching engine.
+
+### 🔹 HR & Payroll Data Automation System
+Reduced manual processing by 60% using backend automation pipelines.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 What I Focus On
 
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam-kumar-sain&show_icons=true&theme=radical)
+- Clean Architecture
+- High Performance APIs
+- Automation & Efficiency
+- Scalable Microservices
+- AI Integration in Real Systems
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/shivam-kumar-sain
-
-- Email: shivamkumar6399029@gmail.com
+LinkedIn: www.linkedin.com/in/shivam-kumar-sain  
+Email: shivamkumar6399029@gmail.com  
 
 ---
 
-⭐ *“Build systems that scale. Write code that lasts.”*
+⭐ Always building. Always learning.
