@@ -45,7 +45,9 @@
 
 ## 🔄 Messaging & Distributed Architecture
 <p>
-<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webhooks-1E90FF?style=for-the-badge&logo=webhook&logoColor=white"/>
 </p>
 
 ## ⚙ DevOps & Cloud
