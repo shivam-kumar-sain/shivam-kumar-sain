@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-<h3 align="center">🚀 Python Backend Developer | Full Stack Engineer | AI/ML Enthusiast</h3>
+<h3 align="center">🚀 Backend Engineer | Python | Laravel | Distributed Systems | AI/ML</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shivam-kumar-sain">
@@ -12,11 +12,13 @@
 
 ## 👨‍💻 About Me
 
-- 💼 4+ Years Experience in Backend Development
-- 🏗️ Building Scalable ERP & CRM Systems
-- ⚡ Automation & Performance Optimization Specialist
-- ☁️ AWS & Cloud Deployment Experience
-- 🤖 AI/ML System Development
+- 💼 4+ Years Experience in Backend & Full Stack Development  
+- 🏗️ Architecting Scalable ERP & CRM Systems  
+- ⚡ Automation & High-Performance API Specialist  
+- 🔍 Search Optimization using Elasticsearch  
+- 📨 Distributed Systems with Kafka & Redis  
+- ☁️ AWS Cloud Deployment Experience  
+- 🤖 AI/ML System Builder  
 
 ---
 
@@ -24,7 +26,7 @@
 
 ### 💻 Backend
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,php,laravel" />
 </p>
 
 ### 🌐 Frontend
@@ -32,36 +34,51 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
 </p>
 
-### 🗄 Databases
+### 🗄 Databases & Search
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
 </p>
 
-### ⚙ DevOps & Tools
+### 🔄 Messaging & Distributed Systems
+<p>
+<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
+</p>
+
+### ⚙ DevOps & Cloud
 <p>
 <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github" />
 </p>
 
+### 🤖 AI / Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://img.shields.io/badge/NLP-BERT%20|%20GPT-blue?style=for-the-badge"/>
+</p>
+
 ---
 
-## 📌 Featured Projects
+## 📌 Highlight Projects
 
-### 🔹 Enterprise CRM System
-Built scalable CRM with RBAC authentication & automation workflows.
+### 🔹 Enterprise CRM Systems
+Designed & deployed scalable CRM platforms with RBAC, automation & reporting.
 
-### 🔹 AI Resume Parser & Job Recommendation System
-ML-based resume parsing & intelligent candidate matching.
+### 🔹 AI Resume Parser & Job Matching Engine
+Built NLP-based intelligent recruitment automation system.
 
-### 🔹 HR & Payroll Automation
-Reduced manual effort by 60% using backend automation pipelines.
+### 🔹 Voice & WhatsApp Automation System
+Improved operational efficiency by 40% using communication automation.
+
+### 🔹 HR & Payroll Data Automation
+Reduced manual workflows by 60% via backend data processing pipelines.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivam-kumar-sain&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-kumar-sain&theme=radical" />
 </p>
 
 ---
@@ -73,4 +90,4 @@ Reduced manual effort by 60% using backend automation pipelines.
 
 ---
 
-⭐ *"Build scalable systems. Write clean code. Automate everything."*
+⭐ *Building Scalable Systems | Clean Code | Automation First*
