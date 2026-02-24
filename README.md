@@ -44,17 +44,9 @@
 </p>
 
 <h2>
-  <img src="https://img.icons8.com/color/28/data-transfer.png"/>
-  Messaging & Distributed Architecture
-</h2>
-<h2>
   <img src="https://img.shields.io/badge/Messaging%20&%20Distributed%20Architecture-Event%20Driven-blue?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  Messaging & Distributed Architecture
 </h2>
-<h2>
-  <img src="https://img.icons8.com/fluency/28/message-bot.png"/>
-  Messaging & Distributed Architecture
-</h2>
+
 <p>
   <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,redis" />
   <img src="https://img.shields.io/badge/Webhooks-Event%20Driven-blue?style=flat-square"/>
