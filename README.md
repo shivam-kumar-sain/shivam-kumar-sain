@@ -44,10 +44,17 @@
 </p>
 
 <h2>
-  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" height="28"/>
+  <img src="https://img.icons8.com/color/28/data-transfer.png"/>
   Messaging & Distributed Architecture
 </h2>
-
+<h2>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/28/external-microservices-web-development-flaticons-lineal-color-flat-icons.png"/>
+  Messaging & Distributed Architecture
+</h2>
+<h2>
+  <img src="https://img.icons8.com/fluency/28/message-bot.png"/>
+  Messaging & Distributed Architecture
+</h2>
 <p>
   <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,redis" />
   <img src="https://img.shields.io/badge/Webhooks-Event%20Driven-blue?style=flat-square"/>
