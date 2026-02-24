@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/shivam-kumar-sain">
     <img src="https://img.shields.io/badge/LinkedIn-Shivam%20Kumar-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=brightgreen&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=shivam-kumar-sain&label=Profile%20Views&color=brightgreen&style=for-the-badge">
 </p>
 
 ---
